@@ -1,0 +1,1 @@
+# Deploying-Wazuh-SIEM-and-XDR-Solution
