@@ -1,10 +1,14 @@
 # Deploying-Wazuh-SIEM-and-XDR-Solution
 
-## Part 1 Installation
-
 Wazuh is a (SIEM) solution that provides monitoring, detection, and alerting of security events and incidents. 
 
 In this exercise we are going to install Wazuh in the cloud on a Google Cloud Machine running Ubuntu 20.04, afer that we are going to install two agents, one in a local computer running Windows 11, and another one in an Azure Cloud Machine running Windows Enterprise, both are going to report to our server already installed in the Google Cloud machine so we can see the data reported and understand how a SIEM like Wazuh works.
+
+Basic Network Topology
+
+![topo](https://imgur.com/ZWd9NSe.png)
+
+## Part 1 Installation
 
 **Note: Installation and configuration of the Machines in the cloud will NOT be covered in this exercise.**
 
